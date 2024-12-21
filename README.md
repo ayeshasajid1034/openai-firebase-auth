@@ -16,7 +16,7 @@ Display the logged-in user’s email on the main dashboard.
 ![email_display_on_dashboard](https://github.com/user-attachments/assets/f2ea509a-254f-4c14-a624-3da88a7ee8ea)
 
 ## 2. Host the app on firebase
-##Link:
+## Link:
 https://openai-firebase-auth.web.app/
 
 ### Outputs:
